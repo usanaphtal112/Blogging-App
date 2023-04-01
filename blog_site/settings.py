@@ -27,6 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
+SITE_ID = 1
 
 # Application definition
 
@@ -39,6 +40,10 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
     # Lacal Apps
     "blog.apps.BlogConfig",
+    # Third Party apps
+    "taggit",
+    "django.contrib.sites",
+    "django.contrib.sitemaps",
 ]
 
 MIDDLEWARE = [
