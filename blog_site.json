@@ -1,0 +1,1294 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2023-03-29T19:48:34.537Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "First Post",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2023-03-29T19:48:34.872Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "First Post",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2023-03-29T19:48:48.071Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "First Post",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2023-03-29T19:49:07.448Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "First Post",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2023-03-29T19:49:16.511Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "First Post",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2023-03-29T20:03:00.127Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Second Test Blog Post",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2023-03-30T04:59:55.208Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "First Post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2023-03-30T04:59:55.362Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "First Post",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2023-03-30T07:26:13.932Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "new title",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2023-03-30T10:21:16.910Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "How Mindfulness Can Boost Your Productivity at Work",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2023-03-30T10:22:03.238Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "How Volunteering Can Make a Positive Impact on Your Life",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2023-03-30T10:24:29.383Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "How to Manage Your Time Like a Pro",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\", \"Body\", \"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2023-03-30T10:25:40.097Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Why Exercise Should Be a Part of Your Daily Routine",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\", \"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2023-03-30T10:26:46.521Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "How to Communicate Effectively in Any Situation",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\", \"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2023-03-30T10:27:45.719Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Simple Tips for a Healthier Diet",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2023-04-01T18:04:19.210Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": "JAZZ MUSIC",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2023-04-01T18:04:35.369Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": "JAZZ MUSIC",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2023-04-01T18:11:26.901Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": "JAZZ MUSIC",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2023-04-01T18:15:31.337Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "5",
+    "object_repr": "jazz-music",
+    "action_flag": 2,
+    "change_message": "[{\"added\": {\"name\": \"tagged item\", \"object\": \"Why Exercise Should Be a Part of Your Daily Routine tagged with jazz-music\"}}, {\"added\": {\"name\": \"tagged item\", \"object\": \"How to Manage Your Time Like a Pro tagged with jazz-music\"}}, {\"added\": {\"name\": \"tagged item\", \"object\": \"How to Communicate Effectively in Any Situation tagged with jazz-music\"}}, {\"changed\": {\"name\": \"tagged item\", \"object\": \"None tagged with jazz-music\", \"fields\": [\"Object ID\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2023-04-01T18:15:54.152Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "4",
+    "object_repr": "django",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2023-04-01T18:16:32.232Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "3",
+    "object_repr": "jazz",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2023-04-01T18:16:37.773Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "5",
+    "object_repr": "jazz-music",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2023-04-01T18:16:45.295Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "1",
+    "object_repr": "jazz-tag",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2023-04-01T18:16:49.798Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "2",
+    "object_repr": "music",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 25,
+  "fields": {
+    "action_time": "2023-04-01T18:17:51.125Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "6",
+    "object_repr": "jazz-music",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"tagged item\", \"object\": \"Why Exercise Should Be a Part of Your Daily Routine tagged with jazz-music\"}}, {\"added\": {\"name\": \"tagged item\", \"object\": \"How to Manage Your Time Like a Pro tagged with jazz-music\"}}, {\"added\": {\"name\": \"tagged item\", \"object\": \"How to Communicate Effectively in Any Situation tagged with jazz-music\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 26,
+  "fields": {
+    "action_time": "2023-04-01T18:32:49.039Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "9",
+    "object_repr": "Understanding Artificial Intelligence Biasing",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 27,
+  "fields": {
+    "action_time": "2023-04-01T18:33:39.892Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "2",
+    "object_repr": "Naphtal",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 28,
+  "fields": {
+    "action_time": "2023-04-01T18:34:17.235Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "2",
+    "object_repr": "Naphtal",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\", \"Email address\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 29,
+  "fields": {
+    "action_time": "2023-04-01T18:36:06.252Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "10",
+    "object_repr": "The Real-World Impacts of AI Biasing",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 30,
+  "fields": {
+    "action_time": "2023-04-01T18:38:34.407Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "11",
+    "object_repr": "Addressing AI Biasing: Strategies and Best Practices",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 31,
+  "fields": {
+    "action_time": "2023-04-01T18:42:00.234Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "11",
+    "object_repr": "Addressing AI Biasing: Strategies and Best Practices",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 32,
+  "fields": {
+    "action_time": "2023-04-01T18:42:00.560Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "11",
+    "object_repr": "Addressing AI Biasing: Strategies and Best Practices",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 33,
+  "fields": {
+    "action_time": "2023-04-01T19:41:09.678Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "12",
+    "object_repr": "Markdown post",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 34,
+  "fields": {
+    "action_time": "2023-04-01T19:43:42.236Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "12",
+    "object_repr": "Markdown post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 35,
+  "fields": {
+    "action_time": "2023-04-01T20:09:55.329Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "1",
+    "object_repr": "localhost:8000",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 36,
+  "fields": {
+    "action_time": "2023-04-01T20:23:42.513Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "1",
+    "object_repr": "localhost:8000",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add post",
+    "content_type": 7,
+    "codename": "add_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change post",
+    "content_type": 7,
+    "codename": "change_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete post",
+    "content_type": 7,
+    "codename": "delete_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view post",
+    "content_type": 7,
+    "codename": "view_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add comment",
+    "content_type": 8,
+    "codename": "add_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change comment",
+    "content_type": 8,
+    "codename": "change_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete comment",
+    "content_type": 8,
+    "codename": "delete_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view comment",
+    "content_type": 8,
+    "codename": "view_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add tag",
+    "content_type": 9,
+    "codename": "add_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change tag",
+    "content_type": 9,
+    "codename": "change_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete tag",
+    "content_type": 9,
+    "codename": "delete_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view tag",
+    "content_type": 9,
+    "codename": "view_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add tagged item",
+    "content_type": 10,
+    "codename": "add_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change tagged item",
+    "content_type": 10,
+    "codename": "change_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete tagged item",
+    "content_type": 10,
+    "codename": "delete_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view tagged item",
+    "content_type": 10,
+    "codename": "view_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 41,
+  "fields": {
+    "name": "Can add site",
+    "content_type": 11,
+    "codename": "add_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 42,
+  "fields": {
+    "name": "Can change site",
+    "content_type": 11,
+    "codename": "change_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 43,
+  "fields": {
+    "name": "Can delete site",
+    "content_type": 11,
+    "codename": "delete_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 44,
+  "fields": {
+    "name": "Can view site",
+    "content_type": 11,
+    "codename": "view_site"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$z0504NmoXsPkCpclncAs3N$KIwwcbWgKT/ApnQRrpolXzHq+cWP9Ug3N2x9a5JmMbk=",
+    "last_login": "2023-03-29T19:43:46.502Z",
+    "is_superuser": true,
+    "username": "admin",
+    "first_name": "",
+    "last_name": "",
+    "email": "usanaphtal112@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2023-03-29T19:39:36.114Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$725Pf8FITampUN8lBhWnrB$IWTm+T9Gep30Xqqt5/oMH+cdJBnMBVSSUXY2znyRz5M=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Naphtal",
+    "first_name": "Naphtal",
+    "last_name": "USABYUWERA",
+    "email": "usa.naphtal@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2023-04-01T18:33:39Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "blog",
+    "model": "post"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "blog",
+    "model": "comment"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 9,
+  "fields": {
+    "app_label": "taggit",
+    "model": "tag"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 10,
+  "fields": {
+    "app_label": "taggit",
+    "model": "taggeditem"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 11,
+  "fields": {
+    "app_label": "sites",
+    "model": "site"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "r3p3zgq3cx5mms69oywnsdj9rvml4jlt",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSHMFHm4dN9vIANMpWogKe3K-O_apAvd3nPOfYlA21rC1nkJcxYXAeL0u0VKD647yHeqtyZTq-syR7kr8qBdji3z83q4fweFevnWaLVToBxD9BGA2QNh4iFZbcAggPasogGHWidCNF5BmhDt2QzeTVm8P6_5NnM:1phbhy:mr1vOKbeIiCND__64COE0_qJZnz3mI-nCDWpDlhYl5A",
+    "expire_date": "2023-04-12T19:43:46.594Z"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 2,
+  "fields": {
+    "title": "Why Exercise Should Be a Part of Your Daily Routine",
+    "slug": "benefits-of-regular-exercise",
+    "author": 1,
+    "body": "Regular exercise has numerous physical and mental health benefits, from reducing the risk of chronic diseases to improving mood and cognitive function. In this blog post, we'll discuss the many benefits of exercise, as well as tips for incorporating physical activity into your daily routine. We'll also explore different types of exercise and their respective benefits.",
+    "publish": "2023-03-29T19:45:51Z",
+    "created": "2023-03-29T19:48:34.870Z",
+    "updated": "2023-03-30T10:25:40.066Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 3,
+  "fields": {
+    "title": "How to Manage Your Time Like a Pro",
+    "slug": "effective-time-management",
+    "author": 1,
+    "body": "Effective time management is key to achieving your goals and being productive. In this blog post, we'll explore tips and techniques for managing your time, including setting goals, prioritizing tasks, and minimizing distractions. We'll also discuss tools and apps that can help you stay on track and manage your time more efficiently.",
+    "publish": "2023-03-29T20:02:08Z",
+    "created": "2023-03-29T20:03:00.107Z",
+    "updated": "2023-03-30T10:24:29.365Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 4,
+  "fields": {
+    "title": "How to Communicate Effectively in Any Situation",
+    "slug": "art-of-communication",
+    "author": 1,
+    "body": "Effective communication is essential in all areas of life, from personal relationships to professional settings. In this blog post, we'll explore tips and techniques for communicating effectively, including active listening, nonverbal communication, and choosing the right words. We'll also discuss common communication challenges and how to overcome them.",
+    "publish": "2023-03-30T04:27:02Z",
+    "created": "2023-03-30T04:27:11.134Z",
+    "updated": "2023-03-30T10:26:46.458Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 5,
+  "fields": {
+    "title": "How Mindfulness Can Boost Your Productivity at Work",
+    "slug": "how-mindfulness-can-boost-your-productivity-at-work",
+    "author": 1,
+    "body": "In today's fast-paced and demanding work environment, it can be easy to get caught up in the hustle and bustle of the day-to-day grind. However, taking the time to practice mindfulness can have a profound impact on your productivity and overall well-being.\r\n\r\nResearch has shown that practicing mindfulness can help reduce stress, improve focus and attention, and increase creativity. By taking a few minutes each day to focus on your breathing or engage in other mindfulness exercises, you can improve your ability to stay present and engaged in your work, which can ultimately lead to better results.\r\n\r\nOne simple mindfulness exercise you can try is to take a few deep breaths and focus on the sensation of the air moving in and out of your body. You can also try setting aside a few minutes each day to meditate or engage in other relaxation techniques.\r\n\r\nBy incorporating mindfulness into your daily routine, you can boost your productivity, reduce stress, and improve your overall well-being.",
+    "publish": "2023-03-30T10:20:38Z",
+    "created": "2023-03-30T10:21:16.899Z",
+    "updated": "2023-03-30T10:21:16.899Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 6,
+  "fields": {
+    "title": "How Volunteering Can Make a Positive Impact on Your Life",
+    "slug": "how-volunteering-can-make-a-positive-impact-on-your-life",
+    "author": 1,
+    "body": "Volunteering your time and skills to help others in your community can be a rewarding and fulfilling experience. Not only does it benefit those in need, but it can also have a positive impact on your own life.\r\n\r\nResearch has shown that volunteering can help reduce stress, increase happiness, and improve overall well-being. When you volunteer, you have the opportunity to meet new people, learn new skills, and gain valuable experience that can enhance your career or personal life.\r\n\r\nIn addition to the personal benefits, volunteering can also make a positive impact on your community. Whether you're helping to clean up a local park, serving meals at a soup kitchen, or volunteering at a local shelter, you're making a difference in the lives of those around you.\r\n\r\nIf you're interested in volunteering but don't know where to start, there are many resources available to help you get involved. Local organizations and charities are often looking for volunteers, and there are many online platforms that can connect you with opportunities in your area.\r\n\r\nOverall, volunteering can be a meaningful and impactful way to give back to your community while also improving your own life.",
+    "publish": "2023-03-30T10:21:24Z",
+    "created": "2023-03-30T10:22:03.218Z",
+    "updated": "2023-03-30T10:22:03.218Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 7,
+  "fields": {
+    "title": "Simple Tips for a Healthier Diet",
+    "slug": "simple-tips-for-a-healthier-diet",
+    "author": 1,
+    "body": "Maintaining a healthy diet is important for overall health and well-being. In this blog post, we'll explore simple tips for eating a healthier diet, including increasing your intake of fruits and vegetables, choosing whole grains over processed foods, and minimizing your intake of sugar and saturated fat. We'll also discuss the benefits of mindful eating and how to make healthier choices when eating out.",
+    "publish": "2023-03-30T10:27:02Z",
+    "created": "2023-03-30T10:27:45.698Z",
+    "updated": "2023-03-30T10:27:45.698Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 8,
+  "fields": {
+    "title": "JAZZ MUSIC",
+    "slug": "jazz-music",
+    "author": 1,
+    "body": "Jazz is a genre of music that has its roots in the African American communities of the early 20th century. It is a complex and ever-evolving form of music that is characterized by improvisation, syncopated rhythms, and unique chord progressions. Jazz has influenced many other genres of music and has played a significant role in shaping the musical landscape of the modern world.\r\n\r\nOrigins of Jazz\r\n\r\nThe origins of jazz can be traced back to the late 19th century, when African American musicians began to blend African rhythms and melodies with European musical traditions. This fusion of different musical styles gave rise to a new form of music that would become known as jazz. Early jazz music was primarily played in the southern United States, particularly in New Orleans, which became known as the birthplace of jazz.\r\n\r\nJazz in the 1920s and 30s\r\n\r\nJazz music became more popular in the 1920s and 30s, as it began to be played in dance halls and clubs throughout the United States. During this time, jazz music also began to be recorded and distributed on records, which helped to spread its popularity even further. Jazz musicians like Louis Armstrong, Duke Ellington, and Benny Goodman became household names, and their music was played on the radio and in movies.\r\n\r\nJazz in the 1940s and 50s\r\n\r\nIn the 1940s and 50s, jazz music underwent a significant transformation as musicians began to experiment with new styles and techniques. Bebop, a style of jazz characterized by fast tempos, complex chord progressions, and improvisation, emerged during this time. Other styles of jazz, like cool jazz and hard bop, also began to gain popularity. Jazz musicians like Miles Davis, Charlie Parker, and Thelonious Monk were at the forefront of these new styles and helped to shape the direction of jazz music in the decades to come.\r\n\r\nJazz Today\r\n\r\nToday, jazz music continues to evolve and thrive. While traditional jazz styles like swing and bebop remain popular, contemporary jazz musicians are constantly pushing the boundaries of the genre and experimenting with new sounds and techniques. Jazz festivals and concerts continue to draw large crowds, and jazz music is regularly featured in movies, television shows, and video games.\r\n\r\nConclusion\r\n\r\nJazz music is a truly unique and diverse form of music that has played an important role in shaping the musical landscape of the modern world. From its humble beginnings in New Orleans to its current status as a worldwide phenomenon, jazz has influenced many other genres of music and will undoubtedly continue to do so in the future. Whether you are a lifelong fan of jazz or a newcomer to the genre, there is always something new and exciting to discover in the world of jazz music.",
+    "publish": "2023-04-01T18:02:25Z",
+    "created": "2023-04-01T18:04:19.127Z",
+    "updated": "2023-04-01T18:11:26.875Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 9,
+  "fields": {
+    "title": "Understanding Artificial Intelligence Biasing",
+    "slug": "understanding-artificial-intelligence-biasing",
+    "author": 1,
+    "body": "Artificial Intelligence (AI) has rapidly become a ubiquitous technology in our daily lives, powering everything from virtual assistants to self-driving cars. However, AI is not immune to bias, which can lead to unintended and often harmful consequences. In this blog, we will explore the concept of AI biasing, its causes, and its potential consequences.\r\n\r\nAI biasing refers to the unintentional, discriminatory behavior of an AI system that results from the data it was trained on or the algorithms used to analyze that data. This bias can manifest in many forms, from skewed decision-making to unfair outcomes for certain groups of people. For example, facial recognition algorithms may be more accurate at identifying certain racial or ethnic groups than others, leading to inaccurate or even discriminatory outcomes.\r\n\r\nThe causes of AI biasing are complex and multifaceted. Some of the key factors include:\r\n\r\nBiased training data: AI systems rely on large amounts of data to learn and improve. If this data is biased, the system will learn and perpetuate that bias.\r\n\r\nLimited diversity in development teams: AI development teams that lack diversity may not be able to identify or address biases that affect certain groups of people.\r\n\r\nFlawed algorithms: Even the most advanced AI algorithms can be flawed, leading to unintentional bias.\r\n\r\nLack of transparency: Without transparency into how AI systems work, it can be difficult to identify and address potential biases.\r\n\r\nThe consequences of AI biasing can be significant. They can perpetuate discrimination and inequality, exacerbate social and economic disparities, and erode trust in AI technology. To mitigate these risks, it is important for developers and organizations to proactively identify and address potential biases in their AI systems.\r\n\r\nIn future blogs, we will explore specific examples of AI biasing and strategies for addressing this issue.",
+    "publish": "2023-04-01T18:31:47Z",
+    "created": "2023-04-01T18:32:49.022Z",
+    "updated": "2023-04-01T18:32:49.022Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 10,
+  "fields": {
+    "title": "The Real-World Impacts of AI Biasing",
+    "slug": "the-real-world-impacts-of-ai-biasing",
+    "author": 2,
+    "body": "In our previous blog, we explored the concept of AI biasing and its potential consequences. In this blog, we will delve deeper into some real-world examples of AI biasing and the impacts they have had on individuals and communities.\r\n\r\nOne example of AI biasing is the use of predictive policing algorithms, which aim to identify areas where crimes are likely to occur and dispatch police resources accordingly. However, these algorithms have been criticized for perpetuating biased and discriminatory practices, as they are often trained on data that reflects historical patterns of discrimination and over-policing in certain communities. As a result, these algorithms can lead to increased policing and surveillance of already over-policed communities, exacerbating existing inequalities and mistrust of law enforcement.\r\n\r\nAnother example of AI biasing is the use of facial recognition technology, which has been shown to be less accurate at identifying people with darker skin tones and women. This can lead to false accusations and arrests, as well as increased surveillance and monitoring of marginalized communities.\r\n\r\nAI biasing can also have significant economic impacts, as automated hiring algorithms may inadvertently discriminate against certain job candidates based on factors such as their race or gender. This can perpetuate existing inequalities in the job market and limit opportunities for marginalized groups.\r\n\r\nTo mitigate the impacts of AI biasing, it is important for developers and organizations to be aware of potential biases in their systems and take steps to address them. This can include using diverse data sets and development teams, implementing transparency and accountability measures, and regularly auditing and testing AI systems for potential biases.",
+    "publish": "2023-04-01T18:34:28Z",
+    "created": "2023-04-01T18:36:06.229Z",
+    "updated": "2023-04-01T18:36:06.230Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 11,
+  "fields": {
+    "title": "Addressing AI Biasing: Strategies and Best Practices",
+    "slug": "addressing-ai-biasing-strategies-and-best-practices",
+    "author": 1,
+    "body": "Artificial intelligence (AI) is increasingly being integrated into various industries, from finance to healthcare and beyond. However, the potential for AI bias is a major concern that must be addressed. Bias in AI can result in inaccurate predictions or decisions, which can have serious consequences.\r\nTo address AI bias, there are a few strategies and best practices that can be implemented:\r\n1.\tDiversify data sets: AI systems are only as good as the data they are trained on. It is important to ensure that the data sets used to train AI systems are diverse and representative of the population it is intended to serve. This can be achieved by using data sets that include a variety of demographic, geographic, and socio-economic factors.\r\n2.\tAudit data sets: Before deploying an AI system, it is important to audit the data sets used to train the model to identify any potential biases. This can be done by analyzing the data for any imbalances in terms of gender, race, age, or other factors. Once identified, corrective actions can be taken to balance the data set.\r\n3.\tMonitor AI performance: It is essential to continuously monitor the performance of AI systems to identify and address any biases that may arise. This can be achieved by setting up performance metrics, tracking the results, and comparing them against benchmarks. If biases are detected, corrective actions can be taken to retrain the model.\r\n4.\tInvolve diverse stakeholders: AI development should involve a diverse group of stakeholders, including individuals from different backgrounds, cultures, and perspectives. This can help to identify potential biases and ensure that the system is inclusive and representative of the population it is intended to serve.\r\n5.\tEstablish ethical guidelines: Companies developing AI systems should establish clear ethical guidelines for their use. These guidelines should outline the principles of fairness, transparency, and accountability, and should be regularly reviewed and updated.\r\n6.\tEncourage transparency: Companies should be transparent about the data sets used to train their AI systems and the decision-making processes involved. This can help to build trust and confidence in the system.\r\n7.\tProvide ongoing training: AI developers, data scientists, and other professionals involved in AI development should receive ongoing training on the latest techniques and best practices for addressing bias in AI.\r\nIn conclusion, addressing AI bias is a critical step in ensuring that AI systems are fair, accurate, and inclusive. By implementing strategies and best practices such as diversifying data sets, auditing data sets, monitoring AI performance, involving diverse stakeholders, establishing ethical guidelines, encouraging transparency, and providing ongoing training, we can help to mitigate the potential for AI bias and create more trustworthy and effective AI systems.",
+    "publish": "2023-04-01T18:36:10Z",
+    "created": "2023-04-01T18:38:34.392Z",
+    "updated": "2023-04-01T18:42:00.555Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 12,
+  "fields": {
+    "title": "Markdown post",
+    "slug": "markdown-post",
+    "author": 1,
+    "body": "This is a post formatted with markdown\r\n\r\n--------------------------------------\r\n\r\n*This is emphasized* and **this is more emphasized**.\r\nHere is a list:\r\n\r\n* One\r\n* Two\r\n* Three\r\n\r\n\r\nAnd a [link to my github](https://github.com/usanaphtal112).",
+    "publish": "2023-04-01T19:39:35Z",
+    "created": "2023-04-01T19:41:09.647Z",
+    "updated": "2023-04-01T19:43:42.231Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 1,
+  "fields": {
+    "post": 4,
+    "name": "Naphtal",
+    "email": "usanaphtal112@gmail.com",
+    "body": "Ok, it nice now!!!",
+    "created": "2023-04-01T13:20:39.660Z",
+    "updated": "2023-04-01T13:20:39.660Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 2,
+  "fields": {
+    "post": 4,
+    "name": "CH Swayam Patro",
+    "email": "chswayam4@gmail.com",
+    "body": "Right, its nice to me too!!",
+    "created": "2023-04-01T13:21:25.472Z",
+    "updated": "2023-04-01T13:21:25.472Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 3,
+  "fields": {
+    "post": 4,
+    "name": "rtu",
+    "email": "naphtalda@gmail.com",
+    "body": "Nice, I like this!",
+    "created": "2023-04-01T13:22:17.280Z",
+    "updated": "2023-04-01T13:22:17.280Z",
+    "active": true
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 6,
+  "fields": {
+    "name": "jazz-music",
+    "slug": "jazz-music"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 7,
+  "fields": {
+    "name": "artificial-intelligence-bias",
+    "slug": "artificial-intelligence-bias"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 8,
+  "fields": {
+    "name": "artificial-intelligence-biasing",
+    "slug": "artificial-intelligence-biasing"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 9,
+  "fields": {
+    "name": "markdown",
+    "slug": "markdown"
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 9,
+  "fields": {
+    "tag": 6,
+    "content_type": 7,
+    "object_id": 2
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 10,
+  "fields": {
+    "tag": 6,
+    "content_type": 7,
+    "object_id": 3
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 11,
+  "fields": {
+    "tag": 6,
+    "content_type": 7,
+    "object_id": 4
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 12,
+  "fields": {
+    "tag": 7,
+    "content_type": 7,
+    "object_id": 9
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 13,
+  "fields": {
+    "tag": 7,
+    "content_type": 7,
+    "object_id": 10
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 15,
+  "fields": {
+    "tag": 7,
+    "content_type": 7,
+    "object_id": 11
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 16,
+  "fields": {
+    "tag": 9,
+    "content_type": 7,
+    "object_id": 12
+  }
+},
+{
+  "model": "sites.site",
+  "pk": 1,
+  "fields": {
+    "domain": "localhost:8000",
+    "name": "localhost:8000"
+  }
+}
+]
